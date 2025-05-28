@@ -1,5 +1,5 @@
 ---
-theme: meetup
+theme: neversink
 drawings:
   persist: false
 transition: slide-left
